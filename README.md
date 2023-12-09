@@ -1,5 +1,5 @@
 
-![cover image](./images/cover%20(1).png)
+![cover image](./images/coverImg.png)
 
 
 ### Hi   
