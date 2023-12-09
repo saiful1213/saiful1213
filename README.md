@@ -2,17 +2,16 @@
 ![cover image](./images/coverImg.png)
 
 
-### Hi   
-### My name is Saiful Islam
-#### I am a web developer
+# Hi, My name is Saiful Islam
+### I am a web developer. I am focused on learning something new technology. 
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am focused on Javascript, TailwindCSS, React and Express. Excited to network and share insights on web development. Feel free to contact me if you need help building robust and efficient web applications, or want to discuss the latest trends! Currently, I'm open to work and employment opportunities with Remote.
 
 Skills:  REACT / JS / HTML / CSS / MONGODB
 
 - 🔭 I’m currently working on new project 
-- 🌱 I’m currently learning javasript 
+- 🌱 I’m currently learning backend technology 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web developing 
 
