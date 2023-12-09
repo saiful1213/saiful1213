@@ -26,7 +26,7 @@ I am a web developer. I am focused on learning something new technology. I am fo
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web developing 
 
-
+### GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiful1213&theme=2077)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiful1213&theme=2077)
@@ -39,19 +39,26 @@ I am a web developer. I am focused on learning something new technology. I am fo
 
 
 
-### GitHub Stats
+<!-- ### GitHub Stats
 <div><img style="height: auto; width: 40%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saiful1213&theme=2077&utcOffset=8" /></div>
 
 ### GitHub Languages
-<div><img style="height: auto; width: 40%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saiful1213&theme=2077&utcOffset=8" /></div>
+<div><img style="height: auto; width: 40%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saiful1213&theme=2077&utcOffset=8" /></div> -->
 
 
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saiful1213&theme=2077&utcOffset=8" />
+<img style="height: auto; width: 50%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiful1213&theme=2077" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saiful1213&theme=2077" /></div>
+<img style="height: auto; width: 50%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saiful1213&theme=2077" /></div>
+</div>
+
+<div class='container'>
+<img style="height: auto; width: 50%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiful1213&theme=2077" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 50%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saiful1213&theme=2077&utcOffset=8" /></div>
 </div>
 
 
@@ -75,8 +82,8 @@ I am a web developer. I am focused on learning something new technology. I am fo
 
 
 
-
+<!-- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saiful1213)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='15'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100070004091081)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>  -->
 
