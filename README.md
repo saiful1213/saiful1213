@@ -3,19 +3,40 @@
 
 
 # Hi, My name is Saiful Islam
-### I am a web developer. I am focused on learning something new technology. 
+ 
+
+I am a web developer. I am focused on learning something new technology. I am focused on Javascript, TailwindCSS, React and Express. Excited to network and share insights on web development. Feel free to contact me if you need help building robust and efficient web applications, or want to discuss the latest trends! Currently, I'm open to work and employment opportunities with Remote.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saiful1213&theme=burnt-neon)](https://git.io/streak-stats)
 
 
-I am focused on Javascript, TailwindCSS, React and Express. Excited to network and share insights on web development. Feel free to contact me if you need help building robust and efficient web applications, or want to discuss the latest trends! Currently, I'm open to work and employment opportunities with Remote.
+# Specialized In
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,firebase)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saiful1213&theme=panda)](https://git.io/streak-stats)
+# Familiar with 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 
-Skills:  REACT / JS / HTML / CSS / MONGODB
+# Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,vite)](https://skillicons.dev)
+
+
 
 - 🔭 I’m currently working on new project 
-- 🌱 I’m currently learning backend technology 
+- 🌱 I’m currently learning next js, redux, mongoose 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web developing 
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiful1213&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiful1213&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saiful1213&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiful1213&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saiful1213&theme=2077&utcOffset=8)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saiful1213)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='15'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100070004091081)  
