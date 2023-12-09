@@ -8,6 +8,8 @@
 
 I am focused on Javascript, TailwindCSS, React and Express. Excited to network and share insights on web development. Feel free to contact me if you need help building robust and efficient web applications, or want to discuss the latest trends! Currently, I'm open to work and employment opportunities with Remote.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saiful1213&theme=panda)](https://git.io/streak-stats)
+
 Skills:  REACT / JS / HTML / CSS / MONGODB
 
 - 🔭 I’m currently working on new project 
