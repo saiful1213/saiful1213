@@ -1,5 +1,5 @@
 
-![cover image](./images/coverImg.png)
+
 
 # Hi, My name is Saiful Islam
 I am a web developer. I am focused on learning something new technology. I am focused on Javascript, TailwindCSS, React and Express. Excited to network and share insights on web development. Feel free to contact me if you need help building robust and efficient web applications, or want to discuss the latest trends! Currently, I'm open to work and employment opportunities with Remote.
